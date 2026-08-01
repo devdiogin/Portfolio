@@ -4,15 +4,19 @@ export function About() {
       <p className="section-label">ABOUT</p>
       <div className="about-body">
         <p>
-          Desenvolvedor Backend focado em <span className="about-highlight">Java</span> e{' '}
-          <span className="about-highlight">Spring Boot</span>, com experiência em
-          arquitetura de microsserviços, mensageria assíncrona e APIs RESTful.
+          Desenvolvedor <span className="about-highlight">Backend Java</span> em formação,
+          com experiência prática em sistemas corporativos integrados ao{' '}
+          <span className="about-highlight">ERP Sankhya</span> e projetos próprios
+          publicados em produção — incluindo{' '}
+          <span className="about-highlight">API REST</span>, autenticação,{' '}
+          <span className="about-highlight">CI/CD</span> e monitoramento.
         </p>
         <p>
-          Gosto de construir sistemas que escalam — desde a modelagem do domínio até
-          o deploy em containers. Atualmente aprofundando conhecimentos em{' '}
-          <span className="about-highlight">Cloud</span> e boas práticas de{' '}
-          <span className="about-highlight">Clean Architecture</span>.
+          Foco em construir aplicações backend escaláveis aplicando{' '}
+          <span className="about-highlight">Clean Architecture</span>,{' '}
+          <span className="about-highlight">SOLID</span> e boas práticas de engenharia.
+          Em busca de uma primeira oportunidade <span className="about-highlight">Jr.</span>{' '}
+          para aplicar essa base técnica em um time maduro e continuar evoluindo.
         </p>
       </div>
     </section>
