@@ -198,11 +198,6 @@ a {
   padding: 2px 9px;
   border-radius: 3px;
   letter-spacing: 0.02em;
-  transition: background 150ms ease, color 150ms ease;
-}
-.stack-tag:hover {
-  background: var(--color-purple);
-  color: var(--color-bg);
 }
 
 /* ── Card description ────────────────────────────────────── */
@@ -210,9 +205,7 @@ a {
   font-size: 13px;
   color: var(--color-text);
   line-height: 1.65;
-  display: -webkit-box;
-  -webkit-line-clamp: 4;
-  -webkit-box-orient: vertical;
+  max-height: calc(1.65em * 6);
   overflow: hidden;
 }
 
