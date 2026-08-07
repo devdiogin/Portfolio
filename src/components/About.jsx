@@ -8,14 +8,15 @@ export function About() {
           no desenvolvimento de sistemas corporativos integrados ao{' '}
           <span className="about-highlight">ERP Sankhya</span> e na construção de aplicações
           próprias publicadas em produção. Atua no desenvolvimento de{' '}
-          <span className="about-highlight">APIs</span>, integrações entre sistemas, automação
-          de processos e estruturação de fluxos de{' '}
-          <span className="about-highlight">entrega contínua</span>, com foco em qualidade,
-          segurança, manutenibilidade e escalabilidade.
+          <span className="about-highlight">APIs</span>, integrações entre sistemas,{' '}
+          <span className="about-highlight">automação de processos</span> e estruturação de
+          fluxos de <span className="about-highlight">entrega contínua</span>, com foco em
+          qualidade, segurança, manutenibilidade e escalabilidade.
         </p>
         <p>
-          Possui conhecimento em <span className="about-highlight">arquitetura de software</span>,
-          princípios <span className="about-highlight">SOLID</span> e boas práticas de engenharia,
+          Possuo conhecimento em{' '}
+          <span className="about-highlight">arquitetura de software</span>, princípios{' '}
+          <span className="about-highlight">SOLID</span> e boas práticas de engenharia,
           aliando visão de negócio à capacidade de transformar necessidades reais em soluções
           confiáveis.
         </p>
