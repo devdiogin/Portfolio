@@ -7,7 +7,7 @@ export function About() {
           Desenvolvedor <span className="about-highlight">Backend Java</span> com experiência
           no desenvolvimento de sistemas corporativos integrados ao{' '}
           <span className="about-highlight">ERP Sankhya</span> e na construção de aplicações
-          próprias publicadas em produção. Atua no desenvolvimento de{' '}
+          próprias publicadas em produção. Atuo no desenvolvimento de{' '}
           <span className="about-highlight">APIs</span>, integrações entre sistemas,{' '}
           <span className="about-highlight">automação de processos</span> e estruturação de
           fluxos de <span className="about-highlight">entrega contínua</span>, com foco em
