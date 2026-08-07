@@ -32,5 +32,13 @@ export const projects = [
     deployUrl: "https://www.carraraodontologia.com.br/",
     featured: true,
   },
-  // Adicione mais projetos aqui seguindo o mesmo padrão ↑
+  {
+    id: "banking-platform-microsservices",
+    title: "Banking Platform Microsservices",
+    description: "Plataforma bancária composta por microsserviços Java Spring Boot, com autenticação Keycloak, banco de dados PostgreSQL, filas RabbitMQ e Kafka, balanceamento de carga com Eureka, gateway de API. O projeto inclui um aplicativo móvel React Native para clientes.",
+    stack: ["Java", "Spring Boot", "Spring Security", "Keycloak", "PostgreSQL", "Docker", "GitHub Actions", "Kafka", "RabbitMQ", "Eureka", "Api Gateway", "React Native"],
+    repoUrl: "https://github.com/devdiogin/banking-platform-microservices",
+    deployUrl: null,
+    featured: true,
+  },
 ];
