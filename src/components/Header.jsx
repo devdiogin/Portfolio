@@ -17,9 +17,9 @@ const socialLinks = [
     href: 'https://www.instagram.com/diogelucasc/',
     Icon: IconInstagram,
   },
-];    
+];
 
-const ROLE_LINE = 'Software Developer | Java | Spring Boot | Microsserviços';
+const ROLE_LINE = 'Desenvolvedor Backend Java | Spring Boot | Microsserviços';
 
 export function Header() {
   const { displayed: roleText, done: roleDone } = useTypewriter(ROLE_LINE, 22, 400);
